@@ -4,3 +4,4 @@
 |    :---:     |     :---:      |   :---:       |   :---:    |
 | [SolveMeFirs](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)  |                |               |            |
 |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)|                |               |            |
+|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)|                |               |            |
