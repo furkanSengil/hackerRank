@@ -2,6 +2,6 @@
   # My Solutions to HackerRank Problems in Swift
 | Algorithms   | Data Structures | Mathematics  |    Regex   |
 |    :---:     |     :---:      |   :---:       |   :---:    |
-| [SolveMeFirs](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)  |                |               |            |
+| [Solve Me Firs](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)  |                |[Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=true)|            |
 |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)|                |               |            |
 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)|                |               |            |
